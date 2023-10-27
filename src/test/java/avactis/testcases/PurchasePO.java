@@ -24,7 +24,7 @@ public class PurchasePO extends LoadableComponent<PurchasePO> {
 	
 
 	// private String url = "http://localhost/Avactis/";
-	// private String pageTitle = "Avactis Demo Store";
+	 private String pageTitle = "Avactis Demo Store";
 
 	public PurchasePO() {
 
